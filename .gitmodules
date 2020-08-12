@@ -1,3 +1,10 @@
 [submodule "themes/blueidea"]
 	path = themes/blueidea
 	url = https://github.com/nasskach/pelican-blueidea.git
+[submodule "output"]
+	path = output
+	url = https://github.com/mangalagb/mangalagb.github.io.git
+	branch = master
+[submodule "themes/nest"]
+	path = themes/nest
+	url = https://github.com/molivier/nest.git
