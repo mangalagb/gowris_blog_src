@@ -39,9 +39,12 @@ DISQUS_SITENAME = 'molivier'
 # Plugins
 # Path to the folder containing the plugins
 PLUGIN_PATHS = ['pelican-plugins']
-PLUGINS = ['ipynb.markup']
+
+from pelican.plugins import pelican_jupyter_reader
+PLUGINS = [pelican_jupyter_reader]
+
 MARKUP = ('md', 'ipynb')
-IGNORE_FILES = [".ipynb_checkpoints"]  
+IGNORE_FILES = [".ipynb_checkpoints"]
 #IPYNB_USE_METACELL = True
 IPYNB_SKIP_CSS = True
 IPYNB_FIX_CSS = True

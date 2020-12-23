@@ -7,6 +7,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
 pelican content -o output
+#pelican --listen
 
 # Go To Outputfolder
 cd output
@@ -25,3 +26,6 @@ git commit -m "$msg"
 git push origin master
 
 #Move back to original project
+cd ..
+
+printf "\033[0;32mDone deploying to GitHub...\033[0m\n"
