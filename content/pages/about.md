@@ -10,7 +10,9 @@ img {
 </head>
 <body>
 
-<p><img src="../images/gowri.jpeg" style="width:200px;margin-right:20px;">
+<p><img src="../images/gowri_hoodie.jpg" style="width:200px;margin-right:20px;">
+
+<br>
 
 Hello. I am Gowri - a computer engineer and an avid space buff.
 <br>
