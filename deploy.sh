@@ -9,6 +9,9 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 pelican content -o output
 #pelican --listen
 
+#cd output
+#python3 -m http.server 8005
+
 # Go To Outputfolder
 cd output
 
