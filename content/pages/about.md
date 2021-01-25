@@ -14,13 +14,22 @@ img {
 
 <br>
 
-Hello. I am Gowri - a computer engineer and an avid space buff.
-<br>
-I love Data Science and making cool visualization projects using Python and Jupyter.
-
-I also love participating in open source projects and solving algorithms.
+Hello. I am Gowri - a computer science developer and an avid space buff.
 <br><br>
-Find me on LinkedIn or Github.
+I love combining my passions of using computer science to explore the world of space and am active in using space data from NASA, CSA etc. to make cool data science projects.
+Check out some of my projects from my homepage.
+<br><br>
+
+I also enjoy solving algorithms in my free time. Check out my code at 
+<a href="https://leetcode.com/mangalagb/" target="_top">Leetcode</a>.
+
+<br><br>
+
+I am also an Arctic Code Vault Contributor on Github having contributed to the open source project of astropy which is a cool python package for astronomy! More details here : <a href="https://github.com/mangalagb" target="_top">Github</a>
+
+
+
+
 
 </p>
 
